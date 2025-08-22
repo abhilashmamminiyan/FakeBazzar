@@ -1,0 +1,13 @@
+
+.productCard{
+    width: 20rem;
+}
+.productCard a{
+    text-decoration: none;
+    color: black;
+}
+.productCard img{
+    padding: 20px;
+    object-fit: contain;
+    max-height: 10rem;
+}

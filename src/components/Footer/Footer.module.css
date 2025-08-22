@@ -1,0 +1,7 @@
+.footer{
+    width :99vw ;
+    position: static;
+    bottom: 0;
+    border-top: 2px solid black;
+    margin-top: 20px;
+}

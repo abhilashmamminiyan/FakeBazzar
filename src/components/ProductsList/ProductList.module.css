@@ -1,0 +1,22 @@
+.productContainer{
+    justify-content: center;
+    gap: 2rem;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+        
+}
+.categories{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+    text-transform: uppercase;
+}
+.categories a{
+    text-decoration: none;
+    color: black;
+}
+
+.textmuted{
+    height: 60vh;
+}

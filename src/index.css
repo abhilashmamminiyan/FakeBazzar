@@ -1,0 +1,27 @@
+.about h1{
+  text-decoration: underline;
+}
+.about h3 ,h2{
+  display: inline-block;
+}
+.about h3 > small{
+  padding-left: 40px;
+  justify-items: center;
+}
+
+.error{
+  justify-items: center;
+  line-height: 30px;
+}
+.error img{
+  width: 400px;
+}
+.error a{
+  margin-top: 20px;
+}
+
+.contact{
+  display: flex;
+  justify-content: center;
+
+}
