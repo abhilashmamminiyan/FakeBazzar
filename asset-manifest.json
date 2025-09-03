@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FakeBazzar/static/css/main.092aa08a.css",
+    "main.js": "/FakeBazzar/static/js/main.398f43c2.js",
+    "static/js/453.bbc2bb8f.chunk.js": "/FakeBazzar/static/js/453.bbc2bb8f.chunk.js",
+    "static/media/bgimg.jpg": "/FakeBazzar/static/media/bgimg.f94b43b085c5a3e1b105.jpg",
+    "static/media/Banner4.png": "/FakeBazzar/static/media/Banner4.96e488a91623f5a11c07.png",
+    "static/media/Banner2.png": "/FakeBazzar/static/media/Banner2.06294a605609535a4648.png",
+    "static/media/Banner3.png": "/FakeBazzar/static/media/Banner3.0dcab9714f08e2644362.png",
+    "static/media/Banner1.png": "/FakeBazzar/static/media/Banner1.220adb2921b4f731897d.png",
+    "static/media/error.jpg": "/FakeBazzar/static/media/error.b75166f427f3e0268760.jpg",
+    "index.html": "/FakeBazzar/index.html",
+    "main.092aa08a.css.map": "/FakeBazzar/static/css/main.092aa08a.css.map",
+    "main.398f43c2.js.map": "/FakeBazzar/static/js/main.398f43c2.js.map",
+    "453.bbc2bb8f.chunk.js.map": "/FakeBazzar/static/js/453.bbc2bb8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092aa08a.css",
+    "static/js/main.398f43c2.js"
+  ]
+}
