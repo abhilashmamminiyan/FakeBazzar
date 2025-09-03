@@ -1,7 +1,7 @@
 {
   "name": "fakebazzr",
+   "homepage": "https://abhilashmamminiyan.github.io/FakeBazzar",
   "version": "0.1.0",
-  "homepage": "https://abhilashmamminiyan.github.io/Fake-Bazzar",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
